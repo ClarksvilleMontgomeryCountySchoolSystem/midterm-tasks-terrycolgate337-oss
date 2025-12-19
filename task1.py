@@ -1,11 +1,4 @@
-#Given variables
-party_pizza_mini = 14
-large = 8
-medium = 6
-people = 6 # friends
 
-#Do Not use crtl+A to select code.  Only copy the code below this line.
-#------------------------------------------------------------------------------------------------
 mini_party_pizza = party_pizza_mini
 large_pizza = large
 medium_pizza = medium
